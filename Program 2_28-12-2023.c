@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <ctype.h> // Include the header for isdigit
+#include <ctype.h>
 #define Max 100
 
 int stack[Max];
